@@ -12,7 +12,7 @@ const (
 
 											// kb is 2 to the power of 10
 											// mb is 2 to the power of 20
-											// gb is 2 to the power of 30
+			//nothing								// gb is 2 to the power of 30
 
 func main() {
 	fmt.Println("binary\t\tdecimal")
