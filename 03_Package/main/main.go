@@ -6,12 +6,9 @@ import (
 	"github.com/NewbieCrit/Udemy-Training/03_Package/main/stringutil"
 )
 
-	func main() {
+func main() {
 
 	fmt.Println(stringutil.Reverse("uoy evol"))
 	fmt.Println(stringutil.MyName)
-
-
-
 
 }

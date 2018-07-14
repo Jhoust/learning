@@ -10,9 +10,9 @@ func increment() int {
 	x++
 	return x
 }
-	func main() {
+func main() {
 
-		fmt.Println(increment())   //when calling the (increment()) function be sure to include () otherwise you run into strange errors
-		fmt.Println(increment())   //need both print lines to show the addition of the program (x++ is) = (x = x+1) not x+x
+	fmt.Println(increment()) //when calling the (increment()) function be sure to include () otherwise you run into strange errors
+	fmt.Println(increment()) //need both print lines to show the addition of the program (x++ is) = (x = x+1) not x+x
 
-	}
+}

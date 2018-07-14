@@ -4,11 +4,10 @@ import "fmt"
 
 const p string = "6"
 const q = "love"
-func main(){
 
+func main() {
 
-
-	fmt.Println("p - ",p, q)
-	fmt.Println("q - ",q)
+	fmt.Println("p - ", p, q)
+	fmt.Println("q - ", q)
 
 }
