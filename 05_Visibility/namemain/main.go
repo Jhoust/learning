@@ -2,11 +2,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/NewbieCrit/Learning/05_Visibility/snamemain"
+	"github.com/NewbieCrit/Learning/05_Visability/snamemain"
 )
 
 func main() {
 	fmt.Println(vis.Myname)
-	fmt.Println(vis.Yourname)
+	fmt.Println(vis.yourname)
 	fmt.Println(vis.X)
 }
+

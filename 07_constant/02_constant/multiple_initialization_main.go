@@ -3,8 +3,9 @@ package main
 import "fmt"
 
 const (
-	Pi       = 3.14
+	Pi = 3.14
 	Language = "go"
+
 )
 
 func main() {

@@ -2,8 +2,8 @@ package vis
 
 import "fmt"
 
-func print() {
+func printvar() {
 	fmt.Println(Myname)
-	fmt.Println(Yourname)
+	fmt.Println(yourname)
 
 }

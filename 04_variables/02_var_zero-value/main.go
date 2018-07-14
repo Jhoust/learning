@@ -20,6 +20,8 @@ func main() {
 	fmt.Printf("%v\n", c)
 	fmt.Printf("%v\n", p)
 
+
+
 	//var z string = "j"
 	//var x string = "a"
 	//var c string = "r"
@@ -29,3 +31,4 @@ func main() {
 	//fmt.Println(z,x,c,v,b)
 
 }
+
